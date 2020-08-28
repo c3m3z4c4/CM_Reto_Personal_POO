@@ -6,7 +6,7 @@ Reto personal Cmeza Semana del 24 al 30 de agosto 2020
 
 1. Diagrama UML Uber".
 
-![Imagen reto 1>](https://github.com/cemeza/challenge-prework-01/blob/master/images/Imagen_reto_1.jpg?raw=true)
+![Imagen UML Uber](https://github.com/cemeza/CM_Reto_Personal_POO/blob/master/images/UML%20Uber.png?raw=true)
 <UML_UBER>
 
 
